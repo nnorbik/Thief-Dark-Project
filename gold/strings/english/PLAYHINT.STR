@@ -1,0 +1,8 @@
+// Player Hints strings
+// Currently, the only use of this is to hold the "New Objectives" string
+// we want to pop up when your goals change.  Any other such onscreen
+// hinty stuff would go here as well.
+NewGoal: "Nové úkoly"
+MantellInstruct: "Hold down jump to mantle"
+LookAtMap: "Na mapu se mùžeš kdykoliv podívat."
+PutAway: " to put away weapons"

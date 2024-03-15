@@ -1,0 +1,5 @@
+ADR 0
+REPLACEALLASC \crfs+ BY +
+ADR 0
+REPLACEASC resname_base %1 BY resname_base %1\crfs
+EXIT

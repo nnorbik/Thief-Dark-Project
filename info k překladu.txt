@@ -1,0 +1,532 @@
+Translating Thief games... need help. 
+
+--------------------------------------------------------------------------------
+
+I am preparing an official translation of Thief GOLD and Thief 2 into Polish. I'd like to use this topic to ask some questions about these games and any linguistic problems I might run into. I'll be very grateful for any help.
+
+1) Why Basso? Why "the Boxman"? I know what "Basso" means (a basss singer), but does it have any meaning? And what about "Boxman"? Basso is a firelighter. It has anything to do with matchbox? Or perhaps "box" means "a blow with the hand" here and Basso is very strong, or something?
+
+2) Overlord's Fancy. Do you think "fancy" means "imagination" or "caprice" in this context?
+
+3) Sunnyfair. "Fair" stands for "beloved woman" or "market" here?
+
+4) I'm translating all gambling pits' names into Polish. But does Dreckboun has any meaning?
+
+5) Why EXACTLY is "Cragscleft" called "Cragscleft"? Because it is inside of a mountain?
+
+6) "Cutty" might mean "short" and "not very tall"?
+
+7) 
+Quote:
+...And the manfools piled rock on rocks and raised a treesie roof, hammers saws tear the skin of goodsie wood... ...and laughs at the Woodsie Lord. ...And when learns the Lord of this, He sends His beastesses to the manfools... ...who attacks and hammers saws their useless fleshes, and build him a house of they rotting skins. 
+What does "hammers saws" mean here? And "hammers saws tear" Are these all verbs? If so, why no commas? Why no "s" after "tear"?
+
+8) 
+Quote:
+Blindness is the manfools theys gathers up treasures and greeders themselves on gold rocks and fetters The Woodsie One wreaks thems with lilacs and nettles and gathers theys bones for His porridge and feathers. 
+What does it mean that Trickster gathers bones for feathers?
+
+9) 
+Quote:
+Danced we in joys and triumphs. With us the Woodsie Lord danced the stringsie foolsie man Rose the storms in shouty glee, the darkness in feary glooms, the fires in happy greed. Danced we away, and fed the sad stringsie manfool to their devourings for our thanks. 
+What does "stringsie foolsie man" mean here? And could anyone explain the meaning of the last sentence to me?
+
+10) 
+Quote:
+Since you left us, you've been a stone rolling downhill. Now you must aim this remarkable momentum. It is past time for the balance to shift. 
+Does "momentum" refer to the 'movement' of Garrett down the hill? Does it mean something like "now you must move in the right direction", or "now you must properly control your movement"?
+
+11) 
+Quote:
+Keeper: Very well. I will speak my piece plainly. You have accomplished that which was written, and YES...you've done it well. But there is no place for you with us any longer. Yet you will have a great need of us, and soon.
+
+Garrett: I don't think so. I'm through with heroics. 
+"I'm through with heroics" means "I'm through with being a hero"?
+
+12) 
+Quote:
+One resides with Brother Mason. One is behind the Skull of St. Yora. One is in the kitchen, by the oven. One is behind the rack which loosens men's tongues. One is behind the Keystone Tree. The locks must be released within the span of five minutes; when all of the locks are released, the Talisman Cage can be opened. Then, he who removes the Talisman must first recite the Prayer of the Wallbuilder. 
+Why is the tree called "Keystone"? Because of its shape?
+
+13) 
+Quote:
+The priests shall no longer doubt their decision to give me allowance to convert the unused storage room in the winter tunnels into an alchemy laboratory. 
+Why "winter" tunnels? Were they used during winter time in the cloister?
+
+14) 
+Quote:
+1,000 Gerwitz contract 
+(quote from Dowininders)
+
+Does it mean that it is a contract to kill Gerwitz, or a contract that some Gerwitz has to fulfill?
+
+15) 
+Quote:
+Pay tributes at Magrin's quarters, in the southeast Arches. 
+Why "Arches"? Because the sewers are arc-shaped?
+
+16) 
+Quote:
+- Hide key to Donal's Master Safe behind the secret panel in my room 
+What is this secret panel? Is it in the wall? I played this mission, but I can't find it. Does anyone has a screenshot of it?
+
+17) 
+Quote:
+Tooks they your dealer Tarquis in their clutches night past, and two patrons as well, named of Lisalle and Ryen, skupped up as they left 
+Lisalle, Ryen - these are femine names?
+
+18) 
+Quote:
+1,491 Cash pits and dealer take: Dreckboun 
+(from Bafford)
+
+"Dealer" means someone who distrubutes the cards in gambling pit, or just "merchant" (perhaps Tarquis)?
+
+19) 
+Quote:
+8: Tybal, Whorekeep. Died of Flux. 
+(from Cragscleft)
+What is a flux?
+
+20) Watchman's Grave. Are there any information who "Watchman" was?
+
+21) 
+Quote:
+Let the tomb be dug deep into the earth, and filled with all manner of things which are pleasing to serve him in his nether days. Splendor shall follow our beloved monarch to mark his glory. And woe to those who would disturb his sleep! They shall be imperiled from below, from above and from that which is directly before their eyes. 
+This can be found in the Lost City, near the remains of the Keeper. "From below" - because of lava. "From above" - because of falling trap. But why "before their eyes"? I've beed to this tomb and found only danger from below and from above.
+
+22) Does anyone know what are the origins of the name "Dayport"?
+
+23) Why is Ramirez often called "Master Ramirez". Does "master" mean simply "mister" here? Or is it some name that has anything to do with "Master of Crime" etc.?
+
+24) And one more request... I'd like to translate quotes from Thief production. Unfortunately, I have some serious problems with understanding most of the jokes from "QUOTES.STR" (found in crfs\books in Thief GOLD). If there's anyone with planty of time, I'd be very grateful for short "analysis" and explanation of these quotes... I might copy them here, if it is necessary. 
+----------------------------------
+
+Quote:
+Originally Posted by bukary
+2) Overlord's Fancy. Do you think "fancy" means "imagination" or "caprice" in this context?
+Caprice.
+
+
+Quote:
+3) Sunnyfair. "Fair" stands for "beloved woman" or "market" here? 
+Market, though this is perhaps more helpful.
+
+
+Quote:
+5) Why EXACTLY is "Cragscleft" called "Cragscleft"? Because it is inside of a mountain? 
+Because it's a cleft in a crag. Hewn out of a mountain, essentially.
+
+
+Quote:
+What does "hammers saws" mean here? And "hammers saws tear" Are these all verbs? If so, why no commas? Why no "s" after "tear"? 
+I'd say the first 'saw' is a noun and the second a verb. But it's hard to tell, because it's thiefsie speak.
+
+
+Quote:
+Does "momentum" refer to the 'movement' of Garrett down the hill? Does it mean something like "now you must move in the right direction", or "now you must properly control your movement"? 
+Since Garrett left the Keepers, he's devoted his energies in a generally negative fashion. But he's pretty damn good at what he does. By 'aiming', he needs to 'convert' this expertise into useful/good enterprises. It's slightly clumsily put.
+
+
+Quote:
+"I'm through with heroics" means "I'm through with being a hero"? 
+Basically, yeah.
+
+
+Quote:
+Why "winter" tunnels? Were they used during winter time in the cloister? 
+Probably storage for winter supplies.
+
+
+Quote:
+Does it mean that it is a contract to kill Gerwitz, or a contract that some Gerwitz has to fulfill? 
+Does this come under 'expenses'? If it's money that the Downwinders paid to Gerwitz, then it's probably a bribe. Otherwise, it's probably a job that Gerwitz paid the Downwinders to do.
+
+
+Quote:
+Why "Arches"? Because the sewers are arc-shaped? 
+Most likely.
+
+
+Quote:
+Lisalle, Ryen - these are femine names? 
+Lisalle yes, Ryen hard to tell. I'd say no.
+
+
+Quote:
+What is a flux? 
+Dysentry.
+
+
+Quote:
+23) Why is Ramirez often called "Master Ramirez". Does "master" mean simply "mister" here? 
+Depends who calls him 'Master'. If it's servants, then it's because he's their employer. If it's equals or above, then it's just a respectful form of 'mister'.
+----------------------------------------------
+
+Here's what I can offer that hasn't already been answered:
+
+6. Cutty might just be a violent-sounding name, just like "Garret" sounds similar to "garrotte," a cord or wire weapon used to strangle people by surprise.
+
+7 & 8. Pagan-speak (not counting T3) is like poetry, it doesn't always make literal sense but conveys vague feelings and ideas.
+
+9. Same as #7 & #9, but I'll try. "Danced we away, and fed the sad stringsie manfool to their devourings for our thanks." could be rephrased as "We danced away, and fed the sad foolish man to be devoured [by the storms, darkness, and fires, i.e. the forces of nature] as an offering of thanks [to the Trickster]." In other words, the Trickster somehow enticed a non-pagan into the wildnerness (maybe the guy who'd been cutting down the trees?), the forces of nature killed him, and the pagans were thankful. I don't know what "stringsie" is supposed to mean. It could refer to the victim not being strong enough to survive, but more likely it just sounded scary when they wrote it.
+
+20. Watchman is another name for "city guard" or "city watch." For a thief to put coins on the watchman's grave would be like saluting a fallen enemy and asking for luck the next time the thief has to deal with a live watchman. 
+
+22. Dayport: It could be something as simple as a harbor or dock which is only safe to travel in the daytime, either due to navigational hazards (when sailing) or crime (when walking). Place names are funny things -- they make sense when someone creates them, but a few generations later nobody remembers the reason but keep using the name. For example, I'd like to know how the locations in Kentucky, USA, known as "Toad Lick," "Knob Lick," and "Big Bone Lick" got their names.
+--------------------------------------------------
+
+Quote:
+1) Why Basso? Why "the Boxman"? I know what "Basso" means (a basss singer), but does it have any meaning? And what about "Boxman"? Basso is a firelighter. It has anything to do with matchbox? Or perhaps "box" means "a blow with the hand" here and Basso is very strong, or something? 
+Basso is just a name, it isn't intended to directly suggest a bass singer - I think the writers just liked the sound of the word. Boxman in this context is thieves' cant for a specialist in 'bypassing' locks. Garrett relies on him in Running Interference to get entrance to the house - it's assumed that Basso is more skilled with locks than Garrett, though Garrett can of course get by.
+
+
+Quote:
+4) I'm translating all gambling pits' names into Polish. But does Dreckboun has any meaning? 
+Nope.
+
+
+Quote:
+7) What does "hammers saws" mean here? And "hammers saws tear" Are these all verbs? If so, why no commas? Why no "s" after "tear"? 
+This could mean either "their hammers and saws tear (rip) the wood" or "the saws of the Hammerites tear (rip) the wood", depending on how much stock you put in the pagans' skill with apostrophes.
+
+
+Quote:
+"Dealer" means someone who distrubutes the cards in gambling pit, or just "merchant" (perhaps Tarquis)? 
+The former, just as in a casino. Dealer take is the house's winnings from the table.
+-------------------------------------------------------------
+
+Well Keystone I believe means a stone in a building or bridge that is vital to holding the thing up. If you were to remove that stone, the structure would collapse. I don't know about trees, but there are "keystone species" of animals in ecosystems, where the removal of them seriously upsets the balance. For example, scientists found a little ocean area or something and removed (and later replaced) different species. Nothing interesting happened until a species of starfish was removed, then a species of mussel nearly took over.
+------------------------------------------------
+
+Another question: in the final movie of Thief 2 Karras says: "let all thy endeavours be objected unto thee". What does it mean?
+-----------------------------------------------
+
+Karras actually says "and all thine endeavours be a blessing unto thee", which means "all your endeavours [efforts, to use Mairead's word, or actions] be a blessing towards you". It would make more sens if it was "all mine endeavours be a blessing unto thee", but it's definitely not.
+---------------------------------------------------
+
+Gah, Glaswolf is quite right. I didn't hear it when I listened the first time, but it is indeed "all thine endeavours be a blessing unto thee". What it means though, in my opinion, is "may all your endeavours do you credit/bring you good".
+-------------------------------------------------------
+
+This may enlighten or confuse, but I'll post anyway.
+
+1.a. “Basso” is Italian for “low.” He doesn’t seem have a deep voice. It may be that the developers wanted to suggest that he’s a lowlife, a lower class person, a criminal, and/or of low morals. I can’t find a connection between fire-lighting and his name.
+1.b. “Boxman” probably means “safe-cracker,” a person who specializes in breaking into safes. Getting past locks is his specialty, too. That’s why he does it for you in “Running Interference.” If fire-lighting includes blowing up a safe to break into it, then there’s a connection, but I doubt it.
+
+2. Popular opinion says “Fancy” is synonymous with caprice.
+
+3. “Fair” here refers to both a market and a festival. It’s a place where there is shopping and entertainment. It may be that the “cash pits” are the main draw, and there is a market for people who don’t necessarily wish to gamble. Like a mini Las Vegas, it may have been built with gambling money and for the purpose of gambling, but it offers more than that.
+
+4. It’s a “cleft” in the “crags.” A hollow place or split within the steep, rugged rocks that define that mountain range. The briefing shows exactly that as we zoom in to see the topmost part of the Hammer-built structure cupped within a hollow of the rocky range.
+
+5. “Cutty” is Scottish or N. English, and literally means “short,” but is used in reference to a pipe or spoon. HOWEVER, it is very interesting to note that “cutty stool” is a Scottish term for “a seat in a church, in which offenders sat and were publicly rebuked by the minister.”
+As an aside, “Cutty Sark” is a brand of whisky, and if the name is Scottish, it means “short shirt” or “short chemise.” Sexy brew!
+
+6. “Dreck” is Yiddish slang for “trash,” or “rubbish,” and comes from a German word for “dirt.” Sounds like a dumpsite, or a landfill. “Boun” is Middle English for “ready,” and is a root word for “bound”—as in, “ready to go,” or “headed for.” I would say “Dreckboun” means “Headed for the Landfill,” or “Going to the Dump,” a fitting name. “Hellbound” is a vague possibility.
+
+7. The first “hammers saws” would be written, “Hammers’ saws.” The second instance would be written, “did unto the Hammers as they had done to the trees.” An attempt to translate this quote into plain, expository English:
+
+“The foolish humans built walls of rock. Then, in order to make a roof to place atop the walls, the Hammerites used saws to cut down trees and strip the bark off. They made mockery of the Lord of the Forest as they did so. When the Lord of the Forest learned of this, he sent Bugbeasts to confront the foolish humans. And the judgment of the Lord of the Forest was that the humans be cut down and stripped of their skin in a way similar to what the humans did to the trees. The Lord of the Forest used the Hammerites’ rotting skins to make a house.”
+
+So, it’s about revenge. An eye for an eye, a tooth for a tooth, and more specifically, skins for skins. This is one of two Pagan quotes that speak of the skinning of humans. In TDS, the Hag’s doing all the skinning.
+And why “Bugbeasts?” Because they are expressly female, and “beastesses” refers to some specie of female Maw beast. Earlier concepts for the game had another type of specifically female beasts that were never implemented. Since the canon gender of the Bugbeasts is female, these are the likely reference within the quote.
+
+8. The Trickster may have made decorations. He made at least one house of skins, so he may have decorated it with sculptures of birds made from men’s bones. Also, “feathers” is meant to rhyme with “fetters.” It sounds like he entraps his victims in a way similar to what Viktoria did to Garrett: Using plants to hold the victims down, where they die and feed the plants, and then he comes back later to collect their bones. A lesson learned from the Venus Flytrap.
+Feathers, in the archaic sense, refer to plumage, or attire, and dress. The phrase, “a feather in one’s cap,” refers to a distinctive accomplishment, or an achievement worthy of pride.
+
+9. “Stringsie foolsie man” means the man is as a marionette, a puppet, being manipulated, and he doesn’t know it, which makes him a fool.
+
+A possible expository translation:
+
+“We danced for joy in our victory. The Lord of the Forest caused the foolish human to dance with us against his will. Storms rose and added their loud, happy noise to the celebration. The darkness grew, adding scary shadows. Hungry fires grew and consumed happily. As we took our celebration elsewhere, we left the foolish human to be consumed by the storms, the darkness, and the fires as an offering of gratitude.”
+
+10. Garrett’s been wayward and become increasingly caught up in things he doesn’t understand. He does things his own way, and for his own reasons. The Keepers, aware of the prophecies, want Garrett to do things their way, so the prophecies will come true and the Balance will shift where they wish it to. Garrett is being told his next goal has to serve a greater purpose. His selfish motives are secondary. The Balance must be kept. His own choices have almost led him beyond the point of no return. He cannot simply go home. He cannot let the Trickster have his way.
+
+11. “I’m through with heroics” means “I’m through performing heroic actions.” He doesn’t consider himself a hero. He takes pride in being selfish. Doing good deeds goes against his cynical nature—at the time he said this, anyway.
+
+12. “Keystone tree,” in the real world, refers to a species of tree that is vital to the ecosystem. A keystone species is a species whose very presence contributes to a diversity of life and whose extinction or removal would consequently lead to the extinction of other forms of life. In-game, this tree must add something to or subtract something from the environment, allowing the rest of the flora to grow well. I haven’t yet looked at that mission to see how it’s laid out, so I don’t know if “keystone” refers to the “top” of an arch-shaped arrangement of the trees.
+
+13. “Winter tunnels” suggests they were originally meant for use during inclement weather, especially during the winter when conditions outside were too intense or dangerous for people to move about in. They could move about the compound and stay safe and dry, and see where they were going. It probably serves as a place to store food and other supplies to help the people get through the winter.
+
+14. My first guess is Gerwitz is the one employed to do a job (and not necessarily murder), but I don’t have Thief Gold. As far as I could find, his is the only name associated with the word "contract" that isn't a known construction company worker/owner.
+
+15. I’d like to know more about the Arches myself. The word is usually used to describe an entrance or support structure of that shape, but may simply mean any structure of that shape. Without more in-game knowledge, I’d say you are correct.
+
+16. Is it this safe in Fig. 22 on this page?http://www.thief-thecircle.com/guide...rchapel/Guild/
+
+17. The name “Ryen” can be of either gender. The name “Lisalle” tends to be feminine. Maybe they were a couple. It is interesting that Ryen and Lisalle are not found in Cragscleft, but Tarquis is.
+
+18. “Dealer” is the person who deals the cards, yes, but is also the one at the table that collects the money lost by the player and gives it to the people in charge of the establishment.
+
+19. “Flux” is Middle English for “flow.” In this case, it means an excessive discharge of a bodily fluid or liquid matter from the body, especially from the bowels. He may have died from dysentery, for example.
+
+20. No direct information. Based on the context, I’d say he/she was in charge of watching for hostile creatures, like zombies, and warning the workers who were building the barricades around that section of the Old Quarter. There was likely more than one, to cover different shifts, and one died in the line of duty. It would make sense that superstitious people would leave money at the Watchman’s Grave, to pay the Watchman’s spirit to watch over them, and increase their chances of staying alive.
+
+21. I don't know. (“Below” also refers to the black abyss you must jump, but I digress.) Hmm. A riddle. “Directly before their eyes” seems too specific and near the face to refer to the Craymen, or other creatures. Not one’s self, either. Nevermind.
+
+22. “Dayport” suggests a port that is mostly used during daylight hours. It may be safer for the ships to come and go during the day. The ocean may be too shallow and the ocean floor may be too rocky to risk navigating through when visibility is poor.
+
+23. “Master” just means he’s in charge, the boss, the one whom the others serve, the ruler, the authority. It is an appropriate term, Ramirez’ ego aside. It’s a respectful title, but in the games it’s tainted by the megalomania of the crime lords and nobility, or the derision of their hirelings.
+
+24. I’ll do it, but I have to ask…: Is the quote-list from Thief Gold exactly the same as the one from Dark Project? I have Dark Project’s quote-list. And what about the other two quote-lists from Metal Age and Deadly Shadows?
+--------------------------------------------------
+
+The first explanation of "Keystone" is correct. If you look at the trees from the balcony, they form an arch. The switch is by the tree at the top which would be where the "keystone" in a stone arch would be.
+
+It is metaphoric, but the top tree of the arch pattern equates to a "Keystone".
+
+For the rest, JTR7 did an outstanding job.
+
+Dreckbourn as described could be a place name for a portion of the town built on landfill over a former garbage dump.
+
+Pure speculation regarding sanitation in the era suggests that the outskirts of town have open sewers in the center of the byways (a very common thing in medieval times) and the disposal of garbage moved out of town would not be taken a long distance to be dumped.
+
+Over time the expansion of the town would reach the dump. And, as we do today, the garbage would be filled over and the "suburban" areas on top of it built up.
+
+As I said, speculation from a historical perspective. Canon at the moment, has no firm information.
+------------------------------------------------
+
+Quote:
+Originally Posted by bukary
+4) I'm translating all gambling pits' names into Polish. But does Dreckboun has any meaning?
+
+6) "Cutty" might mean "short" and "not very tall"?
+Unless it's common practice in Poland to translate people's and place names in books and movies as well, I'd leave them as they are.  
+Two alternative explanations on Cutty:
+Cutty is Garrett's fence, i.e. he sells Garrett's stolen goods for him on the black market. Garrett then gets the price of the goods, minus Cutty's "service charge", or cut. Hence the name.
+Or he is also a loan shark and has a reputation for carving up people who lag behind with their return payments.
+
+
+Quote:
+Originally Posted by bukary
+7) What does "hammers saws" mean here? And "hammers saws tear" Are these all verbs? If so, why no commas? Why no "s" after "tear"?
+I'd say simply "hammers and saws":
+"And the [non-woodsie-lord-worshippers] piled rock on rocks and raised a wooden roof; their hammers and saws tore the bark off good wood."
+
+
+Quote:
+Originally Posted by bukary
+9) What does "stringsie foolsie man" mean here? And could anyone explain the meaning of the last sentence to me?
+A foolsie man or manfool is always a non-believer to the Pagans. I'd say stringsie means either "tied up" or "hung". Meaning, the woodsie lord danced either with a non-Pagan man whose hands and feet were bound together, or with the corpse of a hung man, and they later sacrificed him in the fire.
+
+
+Quote:
+Originally Posted by bukary
+10) Does "momentum" refer to the 'movement' of Garrett down the hill? Does it mean something like "now you must move in the right direction", or "now you must properly control your movement"?
+Garrett has developed his skills and abilities even much further than they were when he left the Keepers, but now the time has come to put them to a better use (than simply filling his own pockets). "Momentum" means he's become so skilful that almost nothing will be able to stop him.
+--------------------------------------------------------
+
+Quote:
+Originally Posted by hopper
+A foolsie man or manfool is always a non-believer to the Pagans. I'd say stringsie means either "tied up" or "hung". Meaning, the woodsie lord danced either with a non-Pagan man whose hands and feet were bound together, or with the corpse of a hung man, and they later sacrificed him in the fire.
+I always took stringsie to mean skinny or scrawny, of little substance, or pathetic, although your version is also possible. It shows how little the pagans think of mere manfools. Small, weak, and pathetic.
+----------------------------------------------------
+
+In "Casing the Joint" we can find a letter from Steward Duma to Foreman Hobart:
+
+
+Quote:
+Also, tune the harp when you get a chance. Lady Weatherington fancies herself an accomplished pianist and is an unrepentant showboat. She will take it as an insult if she is not shown to the harp during the reception so that she may display her meager skills. 
+What does "showboat" mean in this context? A woman that wants to show herself constantly? I guess it sounds like an insult, right?
+------------------------------------------------
+
+A "Showboat" was a riverboat with a traveling troupe of entertainers. In the 1800's they were a common sight on the Mississippi, Ohio, and Missouri rivers.
+
+The word is used today, as it is in THIEF. It means a person who hogs the attention of a gathering. The person wants to be the star attraction of the evening.
+
+To show off, be in the forefront of the crowd. You see them at athletic contests, or concerts. They are the ones who jumpup in front of the TV cameras and push into the front of the crowd saying "look at me" these people are "Showboating".
+
+So the same appelation could be used for them as it was for Lady Weatherington.
+--------------------------------------------
+
+Thanks again!
+
+Another question:
+
+1)
+
+Quote:
+Entry 1 -- Today was indeed a fine day, for Karras was on hand for the commissioning of this, the finest of vessels -- the Cetus Amicus. In all my years as captain of seagoing craft, I never sailed a ship so sleek or strong. Verily, the Cetus Amicus mocks those wave-bound barges! To glide below the flotsam and jetsam...to stand safely in the womb of this steel shark as she cuts through the briny deep. Never again shall there be a vessel as fine as this. 
+What does "commissioning" mean in this context? Preparing the ship for war?
+
+2)
+
+Quote:
+My eye spied another nugget of silver today. The veins are rich with the Builder's bounty! Methinks I'll keep this little discovery to mine own self.... 
+"The veins are rich with the Builder's bounty!" - what does it mean? Some proverb?
+-------------------------------------------
+
+"Commissioning" means formally accepting the ship as being ready for active service. Prior to that it will have been undergoing tests and crew training.
+
+In mining terms, a "vein" is a naturally occurring tube of minerals which threads its way through the underground rock strata. These veins contain many silver nuggets, so are rich ones. The writer is crediting his "God" (the Builder) for their existence.
+-------------------------------------------
+
+Thank you!
+
+And another funny text:
+
+1)
+
+Quote:
+If at any time you meet with a prudent Woman, that Man that offers to meddle with her, without her Consent, shall suffer present Death. 
+What the hell does it mean?  Pirates are polite, or perhaps one pirate cannot ask woman services if she's already with another pirate?
+
+2)
+
+Quote:
+If at any Time we should meet another Marrooner (that is Pyrate) that Man that shall sign his Articles without the Consent of our Company, shall suffer such Punishment as the Captain and Company shall think fit 
+What "articles" mean in this context?
+-------------------------------------------
+
+Quote:
+Originally Posted by bukary
+What the hell does it mean?  Pirates are polite, or perhaps one pirate cannot ask woman services if she's already with another pirate?
+It means rape. "Offers to meddle with her" does not actually mean asking her, it means attempting to take her by force, the same usage as in "offering someone harm". Presumably, the dictate specifically means rape of a woman who is not a prostitute ("a Prudent woman").
+-------------------------------------------
+
+"Articles" are the "codes of conduct" or a contractual agreement.
+
+I think the rule here is that if a pirate (or a marooned person they've picked up) is newly joining Capt. Markham's crew, and this new person puts his own rules/codes/clauses into the contract without permission, he shall be punished as Capt. Markham sees fit. My best guess.
+-------------------------------------------
+
+Apparently that readable was copied verbatim from the Articles of Agreement of a real-life pirate captain, so says Wikipedia.
+
+According to the historical background given in that Wikipedia article, signing the Articles of Agreement (the codes of conduct written by the captain) meant you joined the captain's crew.
+
+[MASSIVE DELETE AND THEN EDIT]
+
+What I think the article in question means is that if the company met another pirate ship (note: marooner, not marooned), then any of the crew who attempted to sign on with that other captain without the company's permission would be punished.
+-----------------------------------------
+
+In relation to the 'Keystone tree', I don't think the 'reliance of the ecosystem' etc. is relevant. It is located in a Hammerite facility and so it is just meant to be building imagery, like 'Tree of the Hammer' or something to that effect.
+-----------------------------------------
+
+Thank you all!
+
+What does it mean "wave-bound barges"?
+--------------------------
+
+Just regular old barges or ships. It's to highlight the difference between them, stuck on top of the ocean, and the submarine Cetus Amicus, which can sail beneath the waves (with all the advantages attendant thereon).
+---------------------------
+
+Quote:
+If any Man shall lose a Joint in time of an Engagement he shall have 400 pieces of gold; if a limb 800. 
+What's a "joint" here? Part of the limb?
+------------------------------
+
+It means losing a limb up to a joint (for instance the wrist, ankle, knee or elbow, as opposed to the entire arm/leg).
+----------------------------
+
+Karras:
+
+
+Quote:
+'Tis the Judgement of Karras, and it is deadly,
+yet fear it not, thou followers of Karras, good
+Mechanists all. For the Judgement of Karras will
+eliminate they who do not believe, they who would
+stop us, they who are the enemies of progress and
+enlightenment. So, my friends, go you now and place
+the Eyes of Karras, and the Judgement of Karras.
+Place them well, that thou shalt be protected forever.
+Let us look forward to the blessed day, when all fear
+shall cease.' And there was great rejoicing, and they
+placed mine Eyes and my Judgements all about. 
+What does Karras mean by "judgement" here? Robots?
+-------------------------------
+
+Karras has set himself up as the "Prophet" of the Mechanists. He is saying that everything the religious texts had said before were to be ignored and that he is now the only one who "has it correct" IE. I KARRAS AM THE LAST WORD FROM GOD.
+
+So Karras is now proclaiming himself to be the judge, jury and executioner.
+
+The word of Karras (every decision he makes) is the law.
+
+He judges the guilty the godly and the godless and his decisions on the matters of religion and everything else is the only guide for the Mechanists to follow.
+
+'Tis the Judgement of Karras, and it is deadly,
+yet fear it not, thou followers of Karras, good
+Mechanists all. I Karras am judge and jury, but don't worry. If you are good mechanists (as I view it) you are safe. 
+
+
+For the Judgement of Karras will
+eliminate they who do not believe, they who would
+stop us, they who are the enemies of progress and
+enlightenment. I will punish (eliminate) all unbelievers and any who would oppose the mechanists and our plans to bring the faith to the world. 
+
+
+So, my friends, go you now and place
+the Eyes of Karras, and the Judgement of Karras.
+Go and be my eyes and see who the ungodly are. Spread my "gospel" and convert all you can to the Mechanist faith. It goes without saying that he is also asking them to punish the ungodly.
+
+Place them well, that thou shalt be protected forever.
+Let us look forward to the blessed day, when all fear
+shall cease.' And when it has been done as I wish and everyone is a believer it will be "heaven" on earth. "Place them well" means don't overlook anyplace or anybody. For if you do not, then there may be a rebel or two who might cause our cause (the Mechanist faith) harm in the future.
+
+And there was great rejoicing, and they
+placed mine Eyes and my Judgements all about.
+And the acolytes and others that heard him preach and believed, and went out to the world to covert the masses, they were full of joy and did as he asked. They became his Eyes to see the sinners and exercised the punishments that Karras wanted brought upon the non-believers or those who would not convert.
+
+Yeah, it's wordy, but a two sentence explanation would not be clear.
+
+Karras' intent was to convert everyone to the Mechanist faith and to kill or otherwise punish those who held to the old beliefs and/or refused to accept him as the new "Christ" on earth.
+----------------------------------------------------
+
+To "place judgement" here means to judge people, i.e. determine who is righteous according to Karras' teachings, decide upon a sentence for those who fail to meet their standards, and to execute it - all at once.
+
+By "execute it" I mean the sentence, not (necessarily) the person. Even the Mechanists wouldn't punish every little misdemeanor by death. I think... 
+-------------------------------------
+
+The word "Execute" has many meanings. The one meant here is to "Put into action" or to "Do" (execute a plan or such) some thing.
+
+When you click on a button on your computer it "Executes" the command that button is linked to.
+----------------------------------
+
+Thank you, theBlackman! It was great.  
+
+Now, could anyone "translate" this for me?
+
+
+Quote:
+"Weythran -
+Found me the most sharpie way o ridding a self of a \
+blade in the side - Watch Officer Morgan. Too much \
+work for him, does he do his *own* scout of breakers and \
+bladesmen, so a sniffer drops him a name or two, gets a \
+coin for the mark of it. Turn me a profit and grieve me the \
+competition, why not?
+-Blackrat" 
+
+Please, please, I need help...
+
+Blackrat found some horrible way of getting rid of Morgan who was "blade in the side" (=trouble for Blackrat)? And the rest -- I don't understand. Please...
+--------------------------------
+
+It's one criminal (I can't remember if they're pagans or pirates) boasting to his friend about how he's making money by acting as a police informant, delivering others into the hands of Watch Officer Morgan for cash. A simple English version might look like this:
+
+"Weythran -
+I've found a way to remove some of my competition - Watch Officer Morgan. He's far too lazy to do any actual detective work, so if I were to give him a name or two, I'll be rewarded. If I make some money from it and despatch a few enemies, why not?
+-Blackrat"
+--------------------------------
+
+Thank you! But I've got yet another Blackrat problem. 
+
+
+Quote:
+Blackrat 
+Third message this week, no answer again! Be you ignoring me, or be caught in your own trap? Drop a note for me or I fly the city, for once the rat be trapped, his cousin be not far outside the cage.
+- Weythran 
+Is Weythran leaving the city? He wishes to run away, or to help Blackrat? Please, help...
+------------------------------------------
+
+It looks to me like Weythran hasn't had any replies from Blackrat, and he's worried that Blackrat's been caught, or is unable or unwilling to communicate with Weythran. If he doesn't hear from him soon, he's going to flee the city because he's concerned that he'll be next (be that due to Blackrat informing on him, which would explain his not wanting to talk to him, or otherwise)
+
+A plainer translation would probably be:
+
+Blackrat
+
+This is the third message I've sent this week and still no answer! Are you ignoring me, or are you in trouble? Get in touch, or I'm fleeing the city, as once one rat is caught, his cousin may be next
+
+- Weythran
+----------------------------------------------
+
+I think what Weythran meant to imply by "for once the rat be trapped, his cousin be not far outside the cage" is that if someone has realised that Blackrat is a snitch, then they'll likely come after Weythran himself next. By "Be you ignoring me, or be caught in your own trap?" he means Blackrat is caught in his own trap rather than that Weythran himself is.

@@ -1,0 +1,13 @@
+// Player Input String Names
+// This is used for the Training mission.
+// The standard being used for now is actions in uppercase, inputs in lowercase.
+// Clearly, all possible player inputs should be named in this file at some point.
+//     - Randy
+LeftMouseButton: "levé tlaèítko myši"
+RightMouseButton: "prave tlaèítko myši"
+1: "1"
+3: "3"
+B: "b"
+Tab: "tab"
+Space: "space"
+M: "m"

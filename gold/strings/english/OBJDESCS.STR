@@ -1,0 +1,60 @@
+use_blackjack: "Tento obušek zneškodní nepøítele bez sebemenšího hluku a krve."
+
+use_breath: "Tento nápoj ti umožní jeden nádech pod vodou. Cena:125"        
+
+use_broadhead: "Tohle je obyèejný šíp. Cena:25"
+
+use_fire: "Tento šíp pøi nárazu vybuchne, poškodí cíl a vznítí se jako hoøící pochodeò. Neletí obloukem, takže zasáhne cíl, který je v míøidlech luku. Cena:300"
+
+use_flash: "Tenhle granát vytvoøí záblesk svìtla, který na chvíli oslepí nepøítele, ale také i neopatrného zlodìje. Cena:200" 
+
+use_gasarrow: "Tento šíp pøi explozi vypustí oblak plynu, který zneškodní nepøátele. Všechno živé okolo sebe uspí. Neletí obloukem, cíl zasáhne pøímo. Cena:500"
+
+use_gasmine: "Když tenhle granát exploduje, vypustí oblak omraèujícího plynu, který v okolí uspí všechno živé. Cena:650"
+
+use_healing: "Tento nápoj ti pomùže léèit zranìní. Cena:250"
+
+use_holywater: "Tato lahvièka Kladiváøské svìcené vody je silná zbraò proti nemrtvým. Používá se na vodní šíp. Cena:200"
+
+use_lockpick: "Tyto šperháky ti pøi troše snahy pomohou odemknout vìtšinu zámkù."
+
+use_pricey_lockpick: "Tyto šperháky ti pøi troše snahy pomohou odemknout vìtšinu zámkù.  Cena: 4000 za par."
+
+
+use_mine: "Tato mina pøi dotyku exploduje. Cena:350"
+
+use_moss: "Tento šíp po nárazu vypustí vrstvu mechu, který vytvoøí mìkký a tichý koberec. Cena:125"
+
+use_noisemaker: "Mechanismus v tomto šípu vydává po nárazu podivný hluk, užiteèný pro odvrácení pozornosti. Cena:250"
+
+use_rope: "Tento šíp po zabodnutí do døeva vytvoøí pevné lano. Cena:200"
+
+use_sword: "Tento meè pøidá do tìla nepøítele nìkolik dìr navíc, ale také slouží na obranu pøed útokem nepøítele."
+
+use_water: "Vodní šíp nezpùsobuje žádná zranìní, ale hasí pochodnì a jiné hoøící pøedmìty. Cena:50"
+
+use_m9papyrus: "Jeden známý ti prodává kontakt na jednoho sbìratele. Tomu pak mùžeš prodat starožitnosti, které ve ztraceném mìstì najdeš. Cena:150"
+
+use_m3holytip: "Bývalý vìzeò z Cragscleftu ti nabízí nìjaké informace o dolech. Cena:100"
+
+use_m3cuttytip: "Tato informace by ti mohla pomoci zjistit, kde Kladiváøi drží Cuttyho. Cena:300"
+
+use_fakeeye: "Kladiváøi vyrobili tuto repliku oka na výmìnu za originál pøi Konstantinovì rituálu."
+
+use_hammertip: "Jeden z Kladiváøù ti nabízí informace. Požaduje peníze k utišení svého svìdomí, že pomáhá zlodìji.  Cena:100"
+
+use_consword: "Tento podivný èerný meè se neleskne, takže tví nepøátelé nespozorují, že ho máš vytasený." 
+
+use_talismans: "Talismany vzduchu, zemì, vody a ohnì ti umožní odpeèetit dveøe do Katedrály."
+
+use_coins: "Mince pro Watchmanùv hrob."
+                                                                        
+use_speed: "Tento nápoj na krátkou dobu zvýší tvou rychlost.  Cena: 500."
+
+use_hallpass: "Tyhle povìøovací listiny Kladiváøského novice by tì mìly dostat pøes stráž u brány."
+
+use_lckey: "Tenhle kámen otevøe vstup do Ztraceného mìsta."
+
+use_pickhelp: "Protože nìkteré zlodìjské nástroje, které se prodávají bez návodu mohou zlodìji èinit potíže, poskytuje k nim Farkus krátký 'Uživatelský návod'."
+
+use_m7tip: "Nìjaký chlap ti nabízí stránky z nìjakého deníku, který prý patøil starodávnému bojovníkovi proti nemrtvým.  Cena: 200"
